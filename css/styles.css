@@ -11,18 +11,12 @@ nav{
 #panier{
     height: 15vh;
 }
-.rounded{
-    height: 75vh;
-    border-radius: 40px;
-    overflow: hidden;
-}
+
 #contenu{   
-    border-bottom-right-radius: 0px;  
-    border-bottom-left-radius: 0px; 
-    border-top-left-radius: 40px;
-    border-top-right-radius: 40px;
-    height: 75vh;
-    overflow-y:scroll;
+overflow-y: scroll;
+border-top-right-radius: 40px;
+border-top-left-radius:40px;
+border-collapse : separate;
 }
 h1 {
     margin-top: 1rem;
