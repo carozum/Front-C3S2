@@ -35,6 +35,10 @@ h1 {
     border-bottom-left-radius: 40px;
     border-collapse: separate;
 }
+#iconeCat{
+    border-radius: 40px;
+    border-collapse: separate;
+}
 
 // scroll
 
