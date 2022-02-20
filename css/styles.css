@@ -11,6 +11,11 @@ nav{
 #panier{
     height: 15vh;
 }
+.rounded{
+    height: 75vh;
+    border-radius: 40px 40px 0 0;
+    overflow-y: scroll;
+}
 #contenu{
     height: 75vh;
     border-radius: 40px 40px 0 0;
