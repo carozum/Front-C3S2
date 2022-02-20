@@ -13,12 +13,11 @@ nav{
 }
 .rounded{
     height: 75vh;
-    border-radius: 40px 40px 0 0;
-    overflow-y: scroll;
+    border-radius: 40px;
+    overflow: hidden;
 }
 #contenu{
-    height: 75vh;
-    border-radius: 40px 40px 0 0;
+    border-radius: 40px;
     overflow-y: scroll;
 }
 h1 {
