@@ -16,9 +16,13 @@ nav{
     border-radius: 40px;
     overflow: hidden;
 }
-#contenu{
-    border-radius: 40px;
-    overflow-y: scroll;
+#contenu{   
+    border-bottom-right-radius: 0px;  
+    border-bottom-left-radius: 0px; 
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    height: 75vh;
+    overflow-y:scroll;
 }
 h1 {
     margin-top: 1rem;
