@@ -11,13 +11,12 @@ nav{
 #panier{
     height: 15vh;
 }
-
 #contenu{   
-overflow-y: scroll;
-border-top-right-radius: 40px;
-border-top-left-radius:40px;
-border-collapse : separate;
-height: 75vh;
+    overflow-y: scroll;
+    border-top-right-radius: 40px;
+    border-top-left-radius:40px;
+    border-collapse : separate;
+    height: 75vh;
 }
 h1 {
     margin-top: 1rem;
@@ -30,8 +29,12 @@ h1 {
     justify-content: center;
     align-items: center;
 }
-
-
+#scrollingbar{
+    margin-right:0px;
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 40px;
+    border-collapse: separate;
+}
 
 // scroll
 
@@ -58,7 +61,6 @@ a:hover{
     border-collapse: separate;
 
 }
-
 
 .fond-sombre{
     background-color:rgb(75, 6, 49);
